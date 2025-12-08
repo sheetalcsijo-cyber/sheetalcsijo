@@ -1,4 +1,4 @@
-# sheetalcsi0-cyber.github.io
+# sheetalcsijo
 Data Analyst | Skilled in Python, SQL, and Tableau | Interested in ML &amp; Visualization
 
 ## 🛠️ Skills
@@ -8,7 +8,7 @@ Data Analyst | Skilled in Python, SQL, and Tableau | Interested in ML &amp; Visu
 
 ## 🚀 Projects
 - [CNN-project-with-the-Streamlit-app](https://github.com/sheetalcsijo-cyber/CNN-project-with-the-Streamlit-app..git)  
-- [Stress Analysis Dashboard in Tableau](https://github.com/username/stress-analysis)  
+- [Well-Being-Mobile-Addiction-Dashboard-Power-BI](https://github.com/sheetalcsijo-cyber/Digital-Well-Being-Mobile-Addiction-Dashboard-Power-BI-.git)  
 - [Movie Sentiment Classification](https://github.com/username/sentiment-analysis)
 
 ## 📫 Connect with me
