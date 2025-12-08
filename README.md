@@ -12,5 +12,5 @@ Data Analyst | Skilled in Python, SQL, and Tableau | Interested in ML &amp; Visu
 - [Movie Sentiment Classification](https://github.com/username/sentiment-analysis)
 
 ## 📫 Connect with me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: youremail@example.com
+- [LinkedIn](https://www.linkedin.com/in/sheetal-sijo-668784197)
+- Email: sheetalcsijo@gmail.com
