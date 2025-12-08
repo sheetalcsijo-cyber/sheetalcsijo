@@ -7,7 +7,7 @@ Data Analyst | Skilled in Python, SQL, and Tableau | Interested in ML &amp; Visu
 - Machine Learning: Scikit-learn, NLP, Deep Learning
 
 ## 🚀 Projects
-- [Diabetes Prediction Model](https://github.com/username/diabetes-prediction)  
+- [CNN-project-with-the-Streamlit-app](https://github.com/sheetalcsijo-cyber/CNN-project-with-the-Streamlit-app..git)  
 - [Stress Analysis Dashboard in Tableau](https://github.com/username/stress-analysis)  
 - [Movie Sentiment Classification](https://github.com/username/sentiment-analysis)
 
