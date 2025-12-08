@@ -1,4 +1,4 @@
-# sheetalcsijo
+# sheetalcsi0-cyber.github.io
 Data Analyst | Skilled in Python, SQL, and Tableau | Interested in ML &amp; Visualization
 
 ## 🛠️ Skills
